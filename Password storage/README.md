@@ -13,6 +13,7 @@ Update an entry by providing the associated email. You can update your email, ap
 View all stored passwords in a table, including emails, encrypted passwords, and app names.
 5. Display All Decrypted Passwords (Press 5):
 View stored passwords with decryption (requires PIN authentication).
+##PIN 1234
 How Encryption Works
 The application utilizes Fernet symmetric key encryption.
 Passwords are encrypted before storage in the store.json file.
